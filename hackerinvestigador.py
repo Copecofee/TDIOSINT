@@ -20,7 +20,7 @@ def printools():
  print(Fore.GREEN+"Feramenta Exiftool                                                        "+Fore.RED+"[+]"+Fore.BLUE+"5")
  print(Fore.GREEN+"Ferramenta Ngrok                                                          "+Fore.RED+"[+]"+Fore.BLUE+"6")
  print(Fore.GREEN+"Ferramenta Zphisher                                                       "+Fore.RED+"[+]"+Fore.BLUE+"7")
- print(Fore.GREEN+"Feraamenta Saychesse                                                      "+Fore.RED+"[+]"+Fore.BLUE+"8")
+ print(Fore.GREEN+"Ferramenta Saychesse                                                      "+Fore.RED+"[+]"+Fore.BLUE+"8")
  print(Fore.GREEN+"Ferramenta Seeker                                                         "+Fore.RED+"[+]"+Fore.BLUE+"9")
  
 printools()
