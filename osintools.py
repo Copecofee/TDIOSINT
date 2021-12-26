@@ -74,7 +74,7 @@ def install():
    os.system("{} && clear".format(tool5))
    print(os.system("ls --color "))
    print(Fore.RED+"BOM HACKING ☕ ")
-  elif ask == 'apt' :
+  elif ask == 'apt':
    print(os.system("sudo apt install exif && clear && echo 'exif --help' "))
    print(Fore.RED+"BOM HACKING ☕ ")
 
