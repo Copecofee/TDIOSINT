@@ -104,7 +104,7 @@ def install():
   print(Fore.RED+"BOM HACKING ☕ ")
 
  elif choice == 0:
- for i in list:
+  for i in list:
    os.system("mkdir OSINTTOOLS && cd OSINTTOOLS")
    os.system("{}".format(i))
   os.system("tar xvzf ngrok-stable-linux-amd64.tgz && rm -rf ngrok-stable-linux-amd64.tgz && clear && ls --color")
