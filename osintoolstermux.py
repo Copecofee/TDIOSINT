@@ -5,6 +5,30 @@ colorama.init(autoreset=True)
 
 os.system("clear")
 
+def ban():
+ banner = """
+                              `                     
+                 zeI?:`      ` `:?yo,              
+                :@@@@@Qdey}Fokg@@@@@w           `` 
+                h@@@@@@@@@@@@@@@@@@@@\`            
+               :@@@@@@@@@@@@@@@@@@@@@M.            
+               e@@@@@@@@@@@@@@@@@@@@@@\            
+              ,Q@@@@@@@@@@@@@@@@@@@@@@q            
+              i@@@@@@@@@@@@@@@@@@@@@@@Q~           
+              6@@@@@@@@@@@@@@@@@@@@@@@@/           
+             .B@@@@@@@@@@@@@@@@@@@@@@@@S           
+             :@@@@@@@@@@@@@@@@@@@@@@@@@p           
+             ;@@@@@@@@@@@@@@@@@@@@@@@@@R`   `      
+     ,'`     ~B@@@@@@@@@@@@@@@@@@@@@@@Qa``    .,'  
+    .B@@QMwz>:` `,:+|lv{FyoSjFsl/>;,'` `'^z6B@@@e  
+     \Q@@@@@@@Qg6Fi=;:,''.```.',:;?luERQ@@@@@@@U,  
+      `:\yqgQ@@@@@@@@@@@@@@@@@@@@@@@@@@@@QN9Fr.    
+            `',:;+*\ii(vvvvzvvvvv7i/?+;:,`         
+
+  """
+ #print(banner)
+ return banner
+print(Fore.BLUE+ban())
 
 tool1 = "go install github.com/lc/gau/v2/cmd/gau@latest"
 tool2 = "git clone https://github.com/sherlock-project/sherlock"
