@@ -1,5 +1,4 @@
 import os
-import colorama
 from colorama import Fore, Back, Style
 colorama.init(autoreset=True)
 
@@ -42,7 +41,6 @@ tool9 = "git clone https://github.com/thewhiteh4t/seeker.git"
 
 list = [tool1, tool2, tool3, tool4, tool5, tool6, tool7, tool8, tool9]
 
-
 def printools():
  print(Fore.GREEN+"Ferramenta Gau                                                            "+Fore.RED+"[+]"+Fore.BLUE+"1")
  print(Fore.GREEN+"Feramenta Sherlock                                                        "+Fore.RED+"[+]"+Fore.BLUE+"2")
@@ -56,8 +54,6 @@ def printools():
  print(Fore.RED+"Todas as Ferramentas                                                      "+Fore.RED+"[+]"+Fore.BLUE+"0")
 
 printools()
-
-
 
 def install():
  choice = int(input("Choose => "))
@@ -85,7 +81,6 @@ def install():
    print(os.system("ls --color "))
    print(Fore.RED+"BOM HACKING ☕ ")
 
-
  elif choice == 5:
   os.system("clear")
   ask = input("Gostaria de abaixar do pkg/git ? ")
@@ -96,7 +91,6 @@ def install():
   elif ask == 'pkg':
    print(os.system("pkg  install exiftool && clear && echo 'exif --help' "))
    print(Fore.RED+"BOM HACKING ☕ ")
-
 
  elif choice == 6:
   os.system("clear")
