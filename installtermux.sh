@@ -1,3 +1,3 @@
 pkg update && pkg upgrade
-pkg install golang-go
+pkg install golang
 pip install colorama
