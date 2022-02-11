@@ -1,6 +1,6 @@
 import os
-from colorama import Fore, Back, Style
-colorama.init(autoreset=True)
+from colorama import *
+init(autoreset=True)
 
 os.system("clear")
 
