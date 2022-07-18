@@ -10,10 +10,11 @@
 #
 #  v1.0 Copecofee:
 #    - The Script Was created
-#  v1.1  
+#  v1.1  07-18-2022, Copecofee:
 #    - Adding comments
 #    - Making the script a program
 #    - Organazing the code
+#
 #-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 apt update
