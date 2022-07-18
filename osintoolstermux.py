@@ -1,3 +1,29 @@
+#!/usr/bin/python3
+#
+# osintoolstermux.py - Install the tools had showed on TDI
+#
+# Made by: Copecofee Lovegood
+# Manutention: Copecofee
+#
+#
+#
+#
+#
+#
+#-----------------------------------------------------------------------------------------------------------------------------------------------------------
+# History:
+#
+#  v1.0 Copecofee:
+#    - The Script Was created
+#  v1.1-BETA1  07-18-2022, Copecofee:
+#    - Adding comments
+#    - Making the script a program
+#    - Organazing the code
+#
+#--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#TODO: Comment the code bellow
+
 import os
 from colorama import *
 init(autoreset=True)
